@@ -1,0 +1,1 @@
+package com.interface_.Static_Method;
